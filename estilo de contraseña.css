@@ -1,0 +1,57 @@
+body{
+	background-image: url(Captura-de-pantalla_2019-03-31_19-15-26.webp);
+	background-size: 100vw 100vh;
+	background-attachment: fixed;
+	margin: 0;
+}
+
+h1{
+	color: #000000;
+	text-align: center;
+	margin: 0;
+	font-size: 30px;
+	margin-bottom: 20px
+}
+
+.one{
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	box-sizing: border-box;
+	font-size: 17px;
+	border: none;
+	width: 450px;
+	margin: auto;
+	background: rgb(0,0,0,0.4);
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	border-radius: 7px;
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+
+.two{
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	box-sizing: border-box;
+	font-size: 17px;
+	border: none;
+	width: 450px;
+	margin: auto;
+	background: rgb(0,0,0,0.4);
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	border-radius: 7px;
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+
+}
